@@ -1,0 +1,10 @@
+# Données personnelles : profils de serveurs (hôtes, utilisateurs) et journaux
+# d'exécution (chemins, sorties de commandes). Créés au premier lancement.
+config/
+
+# Anciens scripts monoprojets (chemins et adresses en dur)
+archives/
+
+# Fichiers temporaires
+*.log
+*.tmp
